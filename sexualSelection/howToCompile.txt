@@ -1,0 +1,1 @@
+/usr/local/Cellar/gcc/6.3.0_1/bin/g++-6 evolutionSim.cpp -o ./main -O3
